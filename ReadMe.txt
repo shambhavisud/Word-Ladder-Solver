@@ -14,28 +14,3 @@ Necessary Steps
 8. If it’s an invalid word, or a word not present in the txt file, you’ll be prompted to enter another word.
 9. Press Enter to exit the program.
 
-Team members’ contribution: 
-
-Aditi Rai: Queue Data Structures, Research on Quickest Implementation
-
-
-Kritika Misra: Project Summary,Graph Functions,AVL Tree Functions,  Debugging, Readme
-
-
-Rimjhim Singh:Project Summary, User Interface, Research on Quickest implementation,Readme
-
-
-Shambhavi Sud: File Handling, Graph Functions, AVL Tree functions,Debugging,Readme
-
-
-Sreya Chilakamarri: Stack Data Structure,Research on quickest implementation
-
-
-
-
-The Team 
-Aditi Rai                                 1910110029
-Kritika Misra                             1910110208 
-Rimjhim Singh                             1910110317
-Shambhavi Sud                             1910110365
-Srimani Sreya Chilakamarri                1910110404
