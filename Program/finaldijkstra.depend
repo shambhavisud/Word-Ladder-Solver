@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1589123828 source:c:\users\shambhavi sud\desktop\new to c\finaldijkstra\queue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+	"queue.h"
+
+1589124753 c:\users\shambhavi sud\desktop\new to c\finaldijkstra\queue.h
+
+1589123120 source:c:\users\shambhavi sud\desktop\new to c\finaldijkstra\stack.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+	"stack.h"
+
+1589123863 c:\users\shambhavi sud\desktop\new to c\finaldijkstra\stack.h
+
+1589123547 source:c:\users\shambhavi sud\desktop\new to c\finaldijkstra\avltree.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"avltree.h"
+
+1589120052 c:\users\shambhavi sud\desktop\new to c\finaldijkstra\avltree.h
+
+1589120681 source:c:\users\shambhavi sud\desktop\new to c\finaldijkstra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+	"avltree.h"
+	"graph.h"
+
+1589121680 c:\users\shambhavi sud\desktop\new to c\finaldijkstra\graph.h
+
+1589121972 source:c:\users\shambhavi sud\desktop\new to c\finaldijkstra\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+	"avltree.h"
+	"stack.h"
+	"queue.h"
+	"graph.h"
+	"limits.h"
+
